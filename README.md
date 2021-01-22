@@ -5,3 +5,5 @@
 # 1502. Can Make Arithmetic Progression From Sequence
 
 # 922. Sort Array By Parity II
+
+# 1047. Remove All Adjacent Duplicates In String
