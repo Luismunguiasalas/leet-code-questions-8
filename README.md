@@ -9,3 +9,5 @@
 # 1047. Remove All Adjacent Duplicates In String
 
 # 344. Reverse String
+
+# 1337. The K Weakest Rows in a Matrix
