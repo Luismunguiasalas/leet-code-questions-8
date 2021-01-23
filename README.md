@@ -11,3 +11,5 @@
 # 344. Reverse String
 
 # 1337. The K Weakest Rows in a Matrix
+
+# 1356. Sort Integers by The Number of 1 Bits
