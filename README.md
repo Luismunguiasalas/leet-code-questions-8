@@ -15,3 +15,5 @@
 # 1356. Sort Integers by The Number of 1 Bits
 
 # 1441. Build an Array With Stack Operations
+
+# 1716. Calculate Money in Leetcode Bank
