@@ -17,3 +17,5 @@
 # 1441. Build an Array With Stack Operations
 
 # 1716. Calculate Money in Leetcode Bank
+
+# 1491. Average Salary Excluding the Minimum and Maximum Salary
