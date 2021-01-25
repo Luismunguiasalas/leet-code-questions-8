@@ -19,3 +19,5 @@
 # 1716. Calculate Money in Leetcode Bank
 
 # 1491. Average Salary Excluding the Minimum and Maximum Salary
+
+# 1700. Number of Students Unable to Eat Lunch
