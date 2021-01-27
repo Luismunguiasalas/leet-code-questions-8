@@ -23,3 +23,5 @@
 # 1700. Number of Students Unable to Eat Lunch
 
 # 1122. Relative Sort Array
+
+# 821. Shortest Distance to a Character
