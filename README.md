@@ -31,3 +31,5 @@
 929 Unique Email Addresses
 
 1636 Sort Array by Increasing Frequency
+1114 Print in Order
+1030 Matrix Cells in Distance Order
