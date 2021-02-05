@@ -21,3 +21,5 @@
 1030 Matrix Cells in Distance Order
 1200 Minimum Absolute Difference
 463 Island Perimeter
+237 Delete Node in a Linked List
+1694 Reformat Phone Number
